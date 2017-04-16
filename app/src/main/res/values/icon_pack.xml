@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <!-- File name (no suffix) list of all icons in /res/drawable-nodpi/ -->
+    <string-array name="icons" translatable="false">
+        <!-- A -->
+        <item>ac_display</item>
+        <item>amaze</item>
+        <item>android_pay</item>
+        <!-- B -->
+        <item>bilibili</item>
+        <item>browser</item>
+        <!-- C -->
+        <item>cainiao</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>chrome</item>
+        <item>contacts</item>
+        <item>cool_apk</item>
+        <item>cootek</item>
+        <!-- D -->
+        <item>deskClock</item>
+        <item>drive</item>
+        <item>downloads</item>
+        <!-- E -->
+        <item>earth</item>
+        <item>email</item>
+        <item>eudic</item>
+        <!-- F -->
+        <item>flickr</item>
+        <!-- G -->
+        <item>gallery</item>
+        <item>gmail</item>
+        <item>google_dialer</item>
+        <item>google_app_search</item>
+        <item>google_app_voice</item>
+        <item>google_opinion_rewards</item>
+        <item>google_play_services</item>
+        <item>google_play_store</item>
+        <item>google_play_games</item>
+        <item>google_play_music</item>
+        <item>google_play_books</item>
+        <item>google_play_newsstand</item>
+        <!-- H -->
+        <item>hangouts</item>
+        <!-- I -->
+        <!-- J -->
+        <item>jd</item>
+        <item>juhuasuan</item>
+        <!-- K -->
+        <item>keep</item>
+        <!-- L -->
+        <item>lantern</item>
+        <!-- M -->
+        <item>maps</item>
+        <item>messages</item>
+        <item>messaging</item>
+        <!-- N -->
+        <item>nano_icon_pack</item>
+        <item>nano_icon_pack_1</item>
+        <item>nano_icon_pack_2</item>
+        <item>nano_icon_pack_3</item>
+        <item>nano_icon_pack_4</item>
+        <item>nano_icon_pack_5</item>
+        <item>net_ease_music</item>
+        <item>news</item>
+        <item>nova_launcher</item>
+        <!-- O -->
+        <!-- P -->
+        <item>phone</item>
+        <item>photos</item>
+        <item>plus</item>
+        <item>pureweather</item>
+        <!-- Q -->
+        <item>qq</item>
+        <item>quanmama</item>
+        <item>quick_pic</item>
+        <!-- R -->
+        <!-- S -->
+        <item>settings</item>
+        <item>sheets</item>
+        <item>slides</item>
+        <item>sms</item>
+        <item>smzdm</item>
+        <item>street_view</item>
+        <!-- T -->
+        <item>tpp</item>
+        <!-- U -->
+        <!-- V -->
+        <item>videos</item>
+        <item>via</item>
+        <!-- W -->
+        <item>we_chat</item>
+        <!-- X -->
+        <!-- Y -->
+        <item>you_tube</item>
+        <!-- Z -->
+    </string-array>
+
+    <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
+    <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
+    <string-array name="icon_labels">
+        <!-- A -->
+        <item>Ac_display</item>
+        <item>Amaze</item>
+        <item>Android_pay</item>
+        <!-- B -->
+        <item>Bilibili</item>
+        <item>Browser</item>
+        <!-- C -->
+        <item>Cainiao</item>
+        <item>Calculator</item>
+        <item>Calendar</item>
+        <item>Camera</item>
+        <item>Chrome</item>
+        <item>Contacts</item>
+        <item>Cootek</item>
+        <!-- D -->
+        <item>DeskClock</item>
+        <item>Drive</item>
+        <item>Downloads</item>
+        <!-- E -->
+        <item>Earth</item>
+        <item>Email</item>
+        <item>Eudic</item>
+        <!-- F -->
+        <item>Flickr</item>
+        <!-- G -->
+        <item>Gallery</item>
+        <item>Gmail</item>
+        <item>Google_dialer</item>
+        <item>Google_app_search</item>
+        <item>Google_app_voice</item>
+        <item>Google_opinion_rewards</item>
+        <item>Google_play_services</item>
+        <item>Google_play_store</item>
+        <item>Google_play_games</item>
+        <item>Google_play_music</item>
+        <item>Google_play_books</item>
+        <item>Google_play_newsstand</item>
+        <!-- H -->
+        <item>Hangouts</item>
+        <!-- I -->
+        <!-- J -->
+        <item>jd</item>
+        <item>Juhuasuan</item>
+        <!-- K -->
+        <item>keep</item>
+        <!-- L -->
+        <item>Lantern</item>
+        <!-- M -->
+        <item>Maps</item>
+        <item>Messages</item>
+        <item>Messaging</item>
+        <!-- N -->
+        <item>NanoIconPack (by @Double Q)</item>
+        <item>NanoIconPack (by @Double Q)</item>
+        <item>NanoIconPack (by @Double Q)</item>
+        <item>NanoIconPack (by @Double Q)</item>
+        <item>NanoIconPack (by @Double Q)</item>
+        <item>NanoIconPack (by @Double Q)</item>
+        <item>Net_ease_music</item>
+        <item>News</item>
+        <item>Nova_launcher</item>
+        <!-- O -->
+        <!-- P -->
+        <item>Phone</item>
+        <item>Photos</item>
+        <item>Plus</item>
+        <item>Pureweather</item>
+        <!-- Q -->
+        <item>Qq</item>
+        <item>Quanmama</item>
+        <item>Quick_pic</item>
+        <!-- R -->
+        <!-- S -->
+        <item>Settings</item>
+        <item>Sheets</item>
+        <item>Slides</item>
+        <item>Sms</item>
+        <item>Smzdm</item>
+        <item>Street_view</item>
+        <!-- T -->
+        <item>Tpp</item>
+        <!-- U -->
+        <!-- V -->
+        <item>Videos</item>
+        <item>Via</item>
+        <!-- W -->
+        <item>We_chat</item>
+        <!-- X -->
+        <!-- Y -->
+        <item>You_tube</item>
+        <!-- Z -->
+    </string-array>
+
+    <!-- Latest icons (Make sure it's from the "icons" array) -->
+    <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
+    <string-array name="latest_icons" translatable="false">
+        <item>nano_icon_pack_5</item>
+    </string-array>
+
+</resources>
